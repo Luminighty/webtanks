@@ -1,0 +1,4 @@
+node_modules
+dist
+
+public_html/bundle.js
